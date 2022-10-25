@@ -1,0 +1,13 @@
+.outer {
+    padding: 10px;
+    background-color: #61dafb;
+}
+.inner {
+    color: yellow;
+}
+.selected {
+    background-color: yellow;
+}
+.selected .inner {
+    color: black;
+}
